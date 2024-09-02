@@ -59,9 +59,9 @@ final class SmsBox
     private const API_URL = 'https://core.smsbox.be/api/v1';
     private const API_ENDPOINT_FOR_AUTHENTICATE = 'auth';
     private const API_ENDPOINT_FOR_BALANCE = 'balance';
-    private const API_ENDPOINT_FOR_ONE_TIME_PASSWORD_SEND = 'otp/send';
+    private const API_ENDPOINT_FOR_ONE_TIME_PASSWORD_SEND = 'otp2/send';
 
-    private const API_ENDPOINT_FOR_ONE_TIME_PASSWORD_VERIFY = 'otp/verify';
+    private const API_ENDPOINT_FOR_ONE_TIME_PASSWORD_VERIFY = 'otp2/verify';
     private const API_ENDPOINT_FOR_SEND_SMS = 'sendsms';
     private const API_ENDPOINT_FOR_SEND_VOICE = 'voice/send';
     private const API_ENDPOINT_FOR_PHONE_NUMBER_VALIDATION = 'hlr';
