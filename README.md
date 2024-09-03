@@ -6,20 +6,14 @@ This library connects to the SmsBox API using PHP.
 
 ## Installation
 
-Integrate this private repository in your composer.json
-
 ```json
-{
-    "require": {
-        "jaanbv/smsbox-php-api": "^1.*"
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url":  "https://github.com/jaanteam/smsbox-php-api.git"
-        }
-    ]
-}
+"jaanbv/sms-php-api": "^1.*"
+```
+
+or run
+
+```sh
+composer require jaanbv/sms-php-api
 ```
 
 ## Examples
