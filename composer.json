@@ -2,7 +2,7 @@
     "name": "jaanbv/smsbox-php-api",
     "description": "This library connects to the SmsBox api using php",
     "type": "library",
-    "license": "MIT"
+    "license": "MIT",
     "authors": [
         {
             "name": "Jaan Colman",
